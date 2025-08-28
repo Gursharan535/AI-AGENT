@@ -1,0 +1,19 @@
+# Core
+streamlit
+python-dotenv
+
+# LangChain ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-google-genai
+
+# Embeddings + Vectorstore
+sentence-transformers
+faiss-cpu   # (or faiss-gpu if you have CUDA GPU)
+
+# PDF Loader
+pypdf   # used internally by PyPDFLoader
+playwright pypdf2
+
