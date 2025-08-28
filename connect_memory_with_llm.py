@@ -1,4 +1,4 @@
-# Connect_memory_with_llm.py
+# connect_memory_with_llm.py
 import os
 from dotenv import load_dotenv
 from langchain_google_genai import ChatGoogleGenerativeAI
